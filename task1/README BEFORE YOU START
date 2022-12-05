@@ -1,0 +1,3 @@
+The idea of this program is that it reads integers until zero ('0') is entered;
+This will print the length of the longest sequence of
+consecutive numbers of the same value AND this value it self
