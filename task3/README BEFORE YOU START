@@ -1,0 +1,16 @@
+Task is specialized on training with POINTERS
+
+Here , was created a function  "const double * aver(const double * arr , size_t size, double& average);"
+
+It should take an array 'arr' , size of 'arr' , and average by refence.
+
+The function provided , should work in the next way:
+The function has to put into 'avarage' the arithmetic average of ALL elements of the array,
+AND return the pointer of the element of the array , WHOSE
+value is closest to the average.
+
+RECOMEND TO WATCH:
+https://www.youtube.com/watch?v=DTxHyVn0ODg&t=852s
+
+AND READ:
+https://www.geeksforgeeks.org/cpp-pointers/
