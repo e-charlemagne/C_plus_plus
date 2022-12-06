@@ -1,0 +1,19 @@
+How it works:
+Program asks the user !IN A LOOP! to enter a positive integer UNTIL  '0' (ZERO).
+Then the program should pring from those which have been read in,
+Those one , for which the SUM of digits is the largest (and this sum).
+The program uses two languages: Polish and English. Which are
+definded on a PREPROCESSOR
+
+If Pol is defined , then language is Polish 
+If Eng is defined , then langeage is English
+If BOTH OF THEM ARE DEFINED, then it basically shouldn`t compile. 
+
+
+RECOMMEND TO READ ABOUT PREPROCESSOR OR WATCH THE VIDEO BELLOW!!!!
+
+https://www.geeksforgeeks.org/cc-preprocessors/
+https://www.youtube.com/watch?v=j3mYki1SrKE
+
+
+
