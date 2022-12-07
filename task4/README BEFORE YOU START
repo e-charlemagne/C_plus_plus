@@ -1,1 +1,12 @@
+This task demonstrate using the recursive functions:
+
+gcdRec - returns greatest common divisor;
+sumDigits - obviously returns sum of decimal digits of natural number;
+numDigits - returns the number of decimal digits of a given natural number
+printOddEven - return even or odd number;
+hailStone - prints in one line all numbers of the Collatz sequence from n to 1;
+
+For better understanding last function , recommend to read:
+https://www.geeksforgeeks.org/hailstone-numbers/
+
 
