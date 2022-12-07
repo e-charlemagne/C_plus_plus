@@ -1,1 +1,14 @@
+The idea is to create a survey , 
+which contains from 7 variables:
+sex , marital status , age group , education , place of living , region of the country , answer;
+
+They have to be encoded into one variable of type 'unsigned short' (2 byte);
+
+the function , takes 7 numbers , and then encodes them. 
+Whole function works using bit operations. 
+
+
+
+
+
 
