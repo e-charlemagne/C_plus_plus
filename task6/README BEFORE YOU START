@@ -1,0 +1,15 @@
+The task contains the 'checkpass' function;
+It should take a password , and check the validity of it.
+
+The function will return true if and only if it passes the given criterias:
+at least 8 characters;
+at least 6 different characters;
+at least 1 digit;
+at least 1 uppercase letter;
+at least 1 lowercase letter;
+at least 1 non-alphanumeric character
+
+Here was used Regex , about it more detailed you can read from:
+https://www.geeksforgeeks.org/write-regular-expressions/
+https://en.cppreference.com/w/cpp/regex
+https://www.softwaretestinghelp.com/regex-in-cpp/
