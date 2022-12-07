@@ -10,6 +10,10 @@ at least 1 lowercase letter;
 at least 1 non-alphanumeric character
 
 Here was used Regex , about it more detailed you can read from:
+VERY IMPORTANT LINK!!!!!!
+-------
+https://stackoverflow.com/questions/19605150/regex-for-password-must-contain-at-least-eight-characters-at-least-one-number-a
+-------
 https://www.geeksforgeeks.org/write-regular-expressions/
 https://en.cppreference.com/w/cpp/regex
 https://www.softwaretestinghelp.com/regex-in-cpp/
