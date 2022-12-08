@@ -1,0 +1,20 @@
+Small Introduction to the task:
+Here we are difining 3 classes and "enum class";
+
+In the main function, we are creating an array of Couples with data already inserted.
+
+We have to find the best couple from those putted into array.
+That`s why we create function 'bestClient' which will return the Pointer
+to this couple from the array of 'size' size passed as the first argument
+which has the highest total savings of HE and SHE. But 
+only from those couples for which at least one of the spouses has an acocunt in the bank.
+If no one has an account in the bank , the function should return NULLPTR.
+
+If two or more couples meet the requirement and have the same highest savings, 
+then the function return the pointer to anyof them.
+
+
+
+
+
+
