@@ -1,5 +1,5 @@
 Small Introduction to the task:
-Here we are difining 3 classes and "enum class";
+Here we are difining 3 classes and "enum class (recommend not to use just only 'enum', because it sucks...)";
 
 In the main function, we are creating an array of Couples with data already inserted.
 
